@@ -44,6 +44,9 @@
       text("game over",170,140);
       text("score",180,240);
       text(score,280,240);
+      text("Other games:",155,340);
+      text("Snake Game in Processing",65,440);
+      text("My GitHub: jaswch",135,540);
       }
       }
     }
